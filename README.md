@@ -9,8 +9,7 @@ Hi, I'm Jakub, a Python developer and AI Enthusiast. Apart from that I love gett
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently Intern at Paidwork.
-- 🌱 I’m currently learning Docker.
+- 🔭 I’m currently Intern at Kyndyl.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything, would love to answer them.✌
 - 📫 How to reach me: Just drop a message on LinkedIn
