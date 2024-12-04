@@ -4,14 +4,12 @@
 
 <br />
 
-Hi, I'm Jakub, a Python developer and AI Enthusiast. Apart from that I love getting involved in Problem Solving, mostly on LeetCode. Learning is the KEY ❤✌
+Hi, I'm Jakub, a Python developer and AI Enthusiast. Apart from that I love getting involved in Problem Solving, mostly on LeetCode. 
 
 
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently Intern at Kyndyl.
-- 👯 Part of Developer Community.
-- 💬 Ask me about anything, would love to answer them.✌
 - 📫 How to reach me: Just drop a message on LinkedIn
 - 🧑‍🍳 In my free time, a cooking enhustiast.
 
